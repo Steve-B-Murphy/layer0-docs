@@ -181,7 +181,8 @@ const frameworkItems = [
     framework: 'docusaurus',
     icon: 'docusaurus',
     text: 'Docusaurus',
-  },
+  },  
+  
 ]
 
 const Home = ({ navData }) => {

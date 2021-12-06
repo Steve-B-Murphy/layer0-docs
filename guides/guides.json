@@ -387,6 +387,16 @@
     ]
   },
   {
+	  "text": "Learning Resources",
+	  "items": [
+		  {
+			"text": "GraphQL In Depth",
+		    "as": "/guides/graphql_indepth",
+		    "href": "/guides/[...guide]"  
+		  }
+	  ]	  	  
+  },
+  {
     "text": "Videos",
     "items": [
       {

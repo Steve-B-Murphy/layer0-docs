@@ -27,6 +27,7 @@ import ServerlessIcon from './serverless-functions.svg'
 import Docusaurus from './docusaurus.svg'
 import Remix from './remix.svg'
 import ShopifyHydrogen from './shopify-hydrogen.svg'
+import GraphQlIcon from './graphql.svg'
 
 import clsx from 'clsx'
 
@@ -58,7 +59,8 @@ export const icons = {
   serverless_functions: ServerlessIcon,
   docusaurus: Docusaurus,
   shopify_hydrogen: ShopifyHydrogen,
-  remix: Remix
+  remix: Remix,
+  gql: GraphQlIcon
 }
 
 export const styles = theme => ({
