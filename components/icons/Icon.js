@@ -6,6 +6,7 @@ import VueIcon from './vue.svg'
 import AngularIcon from './angular.svg'
 import SpartacusIcon from './spartacus.svg'
 import NextIcon from './next.svg'
+import Stencil from './stencil.svg'
 import NextCommerceIcon from './next-commerce.svg'
 import NuxtIcon from './nuxt.svg'
 import ReactStorefrontIcon from './react-storefront.svg'
@@ -15,6 +16,7 @@ import VSFIcon from './vsf.svg'
 import NXIcon from './nx.svg'
 import FrontityIcon from './frontity.svg'
 import HTMLIcon from './html.svg'
+import Hugo from './hugo.svg'
 import Fastboot from './fastboot.svg'
 import Razzle from './razzle.svg'
 import SvelteIcon from './svelte.svg'
@@ -26,41 +28,63 @@ import JekyllIcon from './jekyll.svg'
 import ServerlessIcon from './serverless-functions.svg'
 import Docusaurus from './docusaurus.svg'
 import Remix from './remix.svg'
+import Hexo from './hexo.svg'
 import ShopifyHydrogen from './shopify-hydrogen.svg'
-import GraphQlIcon from './graphql.svg'
+import ReactStatic from './react-static.svg'
+import Layer0Icon from './layer0-logo.svg'
+import Ember from './ember.svg'
+import IonicReact from './ionic_react.svg'
+import Gridsome from './gridsome.svg'
+import Saber from './saber.svg'
+import Preact from './preact.svg'
+
 
 import clsx from 'clsx'
 
 export const icons = {
-  react: ReactIcon,
-  vue: VueIcon,
-  angular: AngularIcon,
-  spartacus: SpartacusIcon,
-  nextjs: NextIcon,
   'next-commerce': NextCommerceIcon,
-  nuxt: NuxtIcon,
-  prev: ChevronLeft,
-  next: ChevronRight,
   'react-storefront': ReactStorefrontIcon,
-  sapper: SapperIcon,
-  gatsby: GatsbyIcon,
-  vsf: VSFIcon,
-  nx: NXIcon,
-  frontity: FrontityIcon,
-  html: HTMLIcon,
+  angular: AngularIcon,
+  astro: AstroIcon,
+  docusaurus: Docusaurus,
+  ember: Ember,
   fastboot: Fastboot,
-  razzleP: RazzlePng,
+  frontity: FrontityIcon,
+  gatsby: GatsbyIcon,
+  hexo: Hexo,
+  hugo: Hugo,
+  html: HTMLIcon,
+  jekyll: JekyllIcon,
+  layer0: Layer0Icon,
+  mkdocs: MkDocsIcon,
+  next: ChevronRight,
+  nextjs: NextIcon,
+  nuxt: NuxtIcon,
+  nx: NXIcon,
+  prev: ChevronLeft,
   razzle: Razzle,
+  razzleP: RazzlePng,
+  react: ReactIcon,
+  remix: Remix,
+  sapper: SapperIcon,
+  stencil: Stencil,
+  serverless_functions: ServerlessIcon,
+  shopify_hydrogen: ShopifyHydrogen,
+
+  remix: Remix,
+
+  spartacus: SpartacusIcon,
   svelte: SvelteIcon,
   swell: SwellIcon,
-  mkdocs: MkDocsIcon,
-  astro: AstroIcon,
-  jekyll: JekyllIcon,
-  serverless_functions: ServerlessIcon,
-  docusaurus: Docusaurus,
-  shopify_hydrogen: ShopifyHydrogen,
-  remix: Remix,
-  gql: GraphQlIcon
+  vsf: VSFIcon,
+  vue: VueIcon,
+  vuepress: VueIcon,
+  react_static: ReactStatic,
+  ionic_react: IonicReact,
+  gridsome: Gridsome,
+  saber: Saber,
+  preact: Preact
+
 }
 
 export const styles = theme => ({

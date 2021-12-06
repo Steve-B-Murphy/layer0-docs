@@ -183,6 +183,12 @@
         "href": "/guides/[...guide]"
       },
       {
+        "text": "Ember.js",
+        "icon": "ember",
+        "as": "/guides/ember",
+        "href": "/guides/[...guide]"
+      },
+      {
         "text": "Ember Fastboot",
         "icon": "fastboot",
         "as": "/guides/ember_fastboot",
@@ -198,6 +204,30 @@
         "text": "Gatsby",
         "icon": "gatsby",
         "as": "/guides/gatsby",
+        "href": "/guides/[...guide]"
+      },
+      {
+        "text": "Gridsome",
+        "icon": "gridsome",
+        "as": "/guides/gridsome",
+        "href": "/guides/[...guide]"
+      },
+      {
+        "text": "Hexo",
+        "icon": "hexo",
+        "as": "/guides/hexo",
+        "href": "/guides/[...guide]"
+      },
+      {
+        "text": "Hugo",
+        "icon": "hugo",
+        "as": "/guides/hugo",
+        "href": "/guides/[...guide]"
+      },
+      {
+        "text": "Ionic React",
+        "icon": "ionic_react",
+        "as": "/guides/ionic_react",
         "href": "/guides/[...guide]"
       },
       {
@@ -237,6 +267,12 @@
         "href": "/guides/[...guide]"
       },
       {
+        "text": "Preact",
+        "icon": "preact",
+        "as": "/guides/preact",
+        "href": "/guides/[...guide]"
+      },
+      {
         "text": "Razzle",
         "icon": "razzle",
         "as": "/guides/razzle",
@@ -249,6 +285,12 @@
         "href": "/guides/[...guide]"
       },
       {
+        "text": "React Static",
+        "icon": "react_static",
+        "as": "/guides/react_static",
+        "href": "/guides/[...guide]"
+      },
+      {
         "text": "React Storefront",
         "icon": "react-storefront",
         "as": "/guides/react-storefront",
@@ -258,6 +300,12 @@
         "text": "Remix",
         "icon": "remix",
         "as": "/guides/remix",
+        "href": "/guides/[...guide]"
+      },
+      {
+        "text": "Saber",
+        "icon": "saber",
+        "as": "/guides/saber",
         "href": "/guides/[...guide]"
       },
       {
@@ -291,6 +339,12 @@
         "href": "/guides/[...guide]"
       },
       {
+        "text": "Stencil",
+        "icon": "stencil",
+        "as": "/guides/stencil",
+        "href": "/guides/[...guide]"
+      },
+      {
         "text": "Svelte",
         "icon": "svelte",
         "as": "/guides/svelte",
@@ -312,6 +366,12 @@
         "text": "Vue.js",
         "icon": "vue",
         "as": "/guides/vue",
+        "href": "/guides/[...guide]"
+      },
+      {
+        "text": "VuePress",
+        "icon": "vue",
+        "as": "/guides/vuepress",
         "href": "/guides/[...guide]"
       }
     ]
